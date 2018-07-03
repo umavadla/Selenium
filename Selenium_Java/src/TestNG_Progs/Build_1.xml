@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="build 1">
+<test name="build_1 results">
+<classes>
+
+<class name="TestNG_Progs.CollegeWeekLive"></class>
+<class name="TestNG_Progs.Enabledtest"></class>
+<class name="TestNG_Progs.FirstProg"></class>
+<class name="TestNG_Progs.proirty_test"></class>
+<class name="TestNG_Progs.secondprog"></class>
+<class name="TestNG_Progs.Thirdprog"></class>
+</classes>
+
+</test>
+
+</suite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [build 1]">
+  <test thread-count="5" name="build_1 results(failed)">
+    <classes>
+      <class name="TestNG_Progs.CollegeWeekLive">
+        <methods>
+          <include name="f"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- TestNG_Progs.CollegeWeekLive -->
+    </classes>
+  </test> <!-- build_1 results(failed) -->
+</suite> <!-- Failed suite [build 1] -->

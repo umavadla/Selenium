@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [crossbroswertesting]">
+  <test thread-count="5" name="chrome results(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="TestNG_Progs.crosstesting">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- TestNG_Progs.crosstesting -->
+    </classes>
+  </test> <!-- chrome results(failed) -->
+</suite> <!-- Failed suite [crossbroswertesting] -->

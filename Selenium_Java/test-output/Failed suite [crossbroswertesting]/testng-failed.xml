@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [crossbroswertesting]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="internetexplorer results(failed)(failed)">
+    <parameter name="browser" value="internetexplorer"/>
+    <classes>
+      <class name="TestNG_Progs.crosstesting">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="afterClass"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- TestNG_Progs.crosstesting -->
+    </classes>
+  </test> <!-- internetexplorer results(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [crossbroswertesting]] -->
